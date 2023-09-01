@@ -1,0 +1,6 @@
+.Content__page--groups{
+  background-color: rgb(230, 230, 230);
+  width: calc(100vw - 190px);
+  height: calc(100vh - 64px);
+}
+

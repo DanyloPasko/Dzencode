@@ -1,0 +1,26 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+
+.Header {
+  min-width: 760px;
+}
+
+.Header__logo {
+  margin: auto 10%;
+}
+
+.Header__search {
+  width: 20%;
+  background-color: #e7e9ec;
+  border-radius:5px ;
+  border: none;
+  padding-left: 10px;
+  box-shadow: inset 0px 0px 2px rgba(0,0,0,0.5);
+}
+
+.Header__date_and_time {
+  margin: 0 10% 0 auto;
+}
+
+.Clock-icon {
+  margin: 0 5px 0 20px;
+}
